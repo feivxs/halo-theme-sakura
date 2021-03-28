@@ -1,11 +1,11 @@
 {
-  "name": "takagi-sakura",
+  "name": "feivxs-sakura",
   "main": "index.js",
   "authors": [
-    "takagi <takagi@halo.run>"
+    "feivxs <feivxs@gmail.com>"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/LIlGG/halo-theme-sakura",
+  "homepage": "https://github.com/feivxs/halo-theme-sakura",
   "ignore": [
     "**/.*",
     "node_modules",

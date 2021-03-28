@@ -1094,7 +1094,7 @@ a:active {
 }
 
 .site-header.is-homepage .lower-cantiner {
-	display: none
+	display: block
 }
 
 .site-header.is-homepage.yya .lower-cantiner {
